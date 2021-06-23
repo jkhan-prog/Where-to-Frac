@@ -1,7 +1,6 @@
 # Where-to-Frac?
 
-For the purposes of this exercise, we will analyze the well log data with the essential measurements acquired by a logging tool. The aim is to carry on Rock type analysis using these input measurements. The rock type determines the probability of finding the Hydrocarbon reservior(Oil and Gas) in those formations and help decide where in the cased hole to perform Fracturing(FRAC) operation. The data however is not clean and needs to be looked at before jumping into any analysis. 
+We will analyze the well log data with the essential measurements acquired by a logging tool. The aim is to carry out Rock type analysis using these input measurements. The rock type determines the probability of finding the Hydrocarbon reservior(Oil and Gas) in those formations and help decide where in the cased hole to perform Fracturing(Frac) operation. The data however is not clean and needs to be looked at before jumping into any analysis.
 
-We will use K-Means Unsupervsised MAchine ALerning models to find teh cluusters of Rock Formatiomns to find our Target rock to Frac <br>
+We will use K-Means Unsupervised Machine Learning model to determine the clusters of rock formatiomns. From these clusters of Rock formations we will find the target rock with hydrocarbon reservior to perform Frac operations on.
 
-**Note:** The data set we're working with is synthetic and has been modified for demonstration purposes.
