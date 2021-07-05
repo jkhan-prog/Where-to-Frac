@@ -5,7 +5,7 @@ This project analyzes the well log data with the essential measurements acquired
 We will use K-Means Unsupervised Machine Learning model to determine the clusters of rock formations. From these clusters of Rock formations we will find the target rock with hydrocarbon reservior to perform Frac operations on.
 
 Notebook is divided into following sections:
-Step 1: Answering the question/n
+Step 1: Answering the question\n
 Step 2: Checking the data
 Step 3: Tidying the data
 Step 4: Rock Type Analysis
